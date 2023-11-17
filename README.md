@@ -22,7 +22,7 @@
   </div>
 </header>
 
-Software Engineer | Programmer | Researcher
+Software Engineer | Programmer | Security Researcher
 ------------------------------------------------
 
 Enthusiastic Software Engineer here, driven to craft top-tier solutions. Skilled in coding, testing, and troubleshooting, ensuring solid software products. Proficient in Dart, Golang, and TypeScript. Eager to tackle complex challenges, explore AI, and learn continuously. Let's team up to surpass project goals and innovate together.
