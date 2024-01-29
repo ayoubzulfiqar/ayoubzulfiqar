@@ -22,7 +22,7 @@
 Software Engineer | Programmer | Security Researcher
 ------------------------------------------------
 
-Enthusiastic Software Engineer here, driven to craft top-tier solutions. Skilled in coding, testing, and troubleshooting, ensuring solid software products. Proficient in Dart, Golang, and TypeScript. Eager to tackle complex challenges, explore AI, and learn continuously. Let's team up to surpass project goals and innovate together.
+I'm not your average Software Engineer. Code flows through my veins, and I live for building fantastic solutions. Got a tricky bug? Bring it on! My testing and troubleshooting skills are top-notch, ensuring rock-solid software every time. Dart, Golang, TypeScript? I speak them all fluently. I thrive on complex challenges, especially those with an AI twist. Continuous learning is my fuel, and I'm always down for an adventure. Let's join forces, crush those project goals, and see what innovative magic we can cook up together!
 <br />
 <br />
 
@@ -66,9 +66,7 @@ Enthusiastic Software Engineer here, driven to craft top-tier solutions. Skilled
 <a href="https://github.com/ayoubzulfiqar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/ayoub_zulfiqar" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://dev.to/ayoubzulfiqar" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
