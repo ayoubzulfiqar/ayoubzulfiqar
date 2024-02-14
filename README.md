@@ -22,7 +22,7 @@
 Software Engineer | Programmer | Security Researcher
 ------------------------------------------------
 
-Software Engineer. Code flows through my veins, and I live for building fantastic solutions. Got a tricky bug? Bring it on! My testing and troubleshooting skills are top-notch, ensuring rock-solid software every time. Dart, Golang, TypeScript? I speak them all fluently. I thrive on complex challenges, especially those with an AI twist. Continuous learning is my fuel, and I'm always down for an adventure. Let's join forces, crush those project goals, and see what innovative magic we can cook up together!
+Software Engineer. Code flows through my veins, and I live for building fantastic solutions. Got a tricky bug? Bring it on! My testing and troubleshooting skills are top-notch, ensuring rock-solid software every time. Dart, Golang, TypeScript, C? I speak them all fluently. I thrive on complex challenges, especially those with an AI twist. Continuous learning is my fuel, and I'm always down for an adventure. Let's join forces, crush those project goals, and see what innovative magic we can cook up together!
 <br />
 <br />
 
