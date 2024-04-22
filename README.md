@@ -10,9 +10,9 @@
 
 <header>
   <div align="center">
-    <a href="https://ayoubzulfiqar.github.io">
+<!--     <a href="https://ayoubzulfiqar.github.io">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=ayoub.ali&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
-    </a>
+    </a> -->
     <a href="https://dev.to/ayoubzulfiqar">
       <img alt="My DEV Community" src="https://img.shields.io/badge/DEV-ayoub-7733ff?style=flat&logo=DEV&logoColor=ffffff&labelColor=334155">
     </a>
