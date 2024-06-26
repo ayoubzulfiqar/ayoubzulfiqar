@@ -70,13 +70,13 @@ Software Engineer. Code flows through my veins, and I live for building fantasti
 <a href="https://dev.to/ayoubzulfiqar" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/ayoubzulfiqar3/" target="_blank">
+<a href="https://www.instagram.com/ayoubzulfiqar/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.dribbble.com/ayoubali" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@ayoubzulfiqar3" target="_blank">
+<a href="https://medium.com/@ayoubzulfiqar" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/15523011/ayoub-ali" target="_blank">
