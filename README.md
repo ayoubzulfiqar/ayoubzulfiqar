@@ -19,10 +19,10 @@
   </div>
 </header>
 
-Software Engineer | Programmer | Security Researcher
+AI Engineer | Programmer | Security Researcher
 ------------------------------------------------
 
-Software Engineer. Code flows through my veins, and I live for building fantastic solutions. Got a tricky bug? Bring it on! My testing and troubleshooting skills are top-notch, ensuring rock-solid software every time. Dart, Golang, TypeScript, C? I speak them all fluently. I thrive on complex challenges, especially those with an AI twist. Continuous learning is my fuel, and I'm always down for an adventure. Let's join forces, crush those project goals, and see what innovative magic we can cook up together!
+
 <br />
 <br />
 
@@ -70,12 +70,8 @@ Software Engineer. Code flows through my veins, and I live for building fantasti
 <a href="https://dev.to/ayoubzulfiqar" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/ayoubzulfiqar/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.dribbble.com/ayoubali" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>
+
+
 <a href="https://medium.com/@ayoubzulfiqar" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
