@@ -2,8 +2,8 @@
 <!-- # ![image](https://drive.google.com/uc?export=view&id=16mypKaZkE2iPQhvGuyOiA-kvXkRHxSzz) -->
 <a href="https://ayoubzulfiqar.github.io">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1vCkyl-wweZ6Vp5qrHmFpNnCEgdBYuDjB">
-    <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1p7JqLLENU7mLDkdgfePd3F1zIozvIekT") />
+    <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1H6cElJlV41JLgNQGK7jsUKowaiuVXToF">
+    <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/uc?export=view&id=1ND4w_XKAaNziFVk4lNBUW_8d9zfrQgQ6") />
     <img alt="AYOUB ALI | Software Engineer · Programmer · Researcher 🎨" src="https://drive.google.com/uc?export=view&id=16mypKaZkE2iPQhvGuyOiA-kvXkRHxSzz" width="100%" />
   </picture>
 </a>
