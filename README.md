@@ -22,6 +22,8 @@
 AI Engineer | Programmer | Security Researcher
 ------------------------------------------------
 
+<br />
+" A language that doesn't affect the way you think about programming, is not worth knowing"
 
 <br />
 <br />
