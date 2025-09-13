@@ -8,7 +8,7 @@ on:
   # This allows for manual triggering from the GitHub UI.
   workflow_dispatch:
   # The workflow also runs on pushes to the `master` or `main` branches.
-  push: {branches: ["master", "main"]}
+  push: {branches: ["output", "main"]}
 
 # The `permissions` are applied to all jobs in this workflow.
 jobs:
