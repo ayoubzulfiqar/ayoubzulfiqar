@@ -6,7 +6,7 @@
 </picture>
 </a>
 
-
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRmcjNodnV0enF5YnRhdzF5a2xuMnF1b3diNmF3Z3g3dzdjMHdsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SJXzadwbexJEAZ9S1B/giphy.gif"  />
 
 ## "A language that doesn't affect the way you think about programming, is not worth knowing"
 <br>
