@@ -1677,7 +1677,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>containers/skopeo</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Work with remote images registries - retrieving information, images, signing content</div>
@@ -1730,7 +1730,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bia-pain-bache/BPB-Worker-Panel</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.</div>
@@ -2147,7 +2147,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Sept 2025, 13:15:53 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Sept 2025, 14:12:35 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
