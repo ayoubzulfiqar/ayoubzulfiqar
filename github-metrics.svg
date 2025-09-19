@@ -1658,7 +1658,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepseek-ai/DeepGEMM</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling</div>
@@ -1711,7 +1711,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mixmark-io/turndown</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🛏 An HTML to Markdown converter written in JavaScript</div>
@@ -1764,7 +1764,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hahwul/MobileHackersWeapons</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting</div>
@@ -1817,7 +1817,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>v2fly/v2ray-core</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A platform for building proxies to bypass network restrictions.</div>
@@ -2136,7 +2136,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Sept 2025, 11:16:55 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2025, 12:11:36 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
