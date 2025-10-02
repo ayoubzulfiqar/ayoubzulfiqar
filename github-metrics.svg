@@ -1707,7 +1707,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asr-pub/index-tts-lora</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-quality speech synthesis with LoRA fine-tuning on index-tts, enhancing prosody and naturalness for single and multi-speaker voices.</div>
@@ -2187,7 +2187,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Oct 2025, 11:16:25 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2025, 12:11:01 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
