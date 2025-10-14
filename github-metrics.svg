@@ -1719,7 +1719,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheSleekBoyCompany/AnsibleHound</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go collector for adding Ansible WorX and Ansible Tower attack paths to BloodHound with OpenGraph</div>
@@ -1772,7 +1772,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Trevohack/Venom</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A ring0 Loadable Kernel Module (Linux) for latest kernels 6.x</div>
@@ -2197,7 +2197,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Oct 2025, 15:12:50 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Oct 2025, 16:10:02 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
