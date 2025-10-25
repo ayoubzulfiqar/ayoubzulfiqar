@@ -1715,7 +1715,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maximhq/bifrost</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support &amp; &lt;100 µs overhead at 5k RPS.</div>
@@ -1768,7 +1768,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Liquid4All/cookbook</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK</div>
@@ -1862,7 +1862,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BullsEye0/shodan-eye</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shodan Eye This tool collects all the information about all devices directly connected to the internet using the specified keywords that you enter. Author: Jolanda de Koff</div>
@@ -2181,7 +2181,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Oct 2025, 13:13:33 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2025, 14:10:46 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
