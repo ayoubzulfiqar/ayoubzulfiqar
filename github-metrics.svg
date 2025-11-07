@@ -1727,7 +1727,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gruquilla/FinAPy</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Single-stock analysis using Python and local machine learning/ AI tools (Ollama, LSTM).</div>
@@ -1774,7 +1774,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/MarS</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MarS: a Financial Market Simulation Engine Powered by Generative Foundation Model</div>
@@ -1827,7 +1827,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TimothyYe/godns</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net &amp; DuckDNS &amp; DreamHost, etc, written in Go.</div>
@@ -1880,7 +1880,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CapSoftware/Cap</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source Loom alternative. Beautiful, shareable screen recordings.</div>
@@ -2201,7 +2201,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Nov 2025, 11:17:58 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2025, 12:11:50 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
