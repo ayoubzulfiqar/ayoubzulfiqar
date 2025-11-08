@@ -1727,7 +1727,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>selkies-project/selkies</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC</div>
@@ -1827,7 +1827,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/MarS</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MarS: a Financial Market Simulation Engine Powered by Generative Foundation Model</div>
@@ -1880,7 +1880,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TimothyYe/godns</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net &amp; DuckDNS &amp; DreamHost, etc, written in Go.</div>
@@ -2201,7 +2201,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Nov 2025, 11:15:13 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Nov 2025, 12:10:27 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
