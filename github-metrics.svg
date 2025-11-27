@@ -1779,7 +1779,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cdgriffith/FastFlix</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FastFlix is a free GUI for H.264, HEVC and AV1 hardware and software encoding!</div>
@@ -1832,7 +1832,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubero-dev/kubero</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes</div>
@@ -1885,7 +1885,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SpecterOps/BloodHound</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Six Degrees of Domain Admin</div>
@@ -2257,7 +2257,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Nov 2025, 23:16:32 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2025, 00:09:19 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
