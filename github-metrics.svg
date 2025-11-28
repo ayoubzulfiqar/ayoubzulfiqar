@@ -1754,7 +1754,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>haproxy/haproxy</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HAProxy Load Balancer's development branch (mirror of git.haproxy.org)</div>
@@ -1854,7 +1854,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FireRedTeam/FireRedTTS2</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Long-form streaming TTS system for multi-speaker dialogue generation</div>
@@ -1907,7 +1907,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dgunning/edgartools</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The world's easiest, most powerful edgar library</div>
@@ -2226,7 +2226,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Nov 2025, 21:14:03 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2025, 22:10:20 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
